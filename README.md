@@ -40,3 +40,5 @@ The notebook concludes with a linear fitting analysis, including linear regressi
 - **Developer:** Mahad Naveed (BS Physics @ LUMS 2023)
 - **Supervisor:** Dr. Sabieh Anwar
 - **Mentor:** Dr. Adnan Raza
+
+For information about PhysLab, visit: www.physlab.org
