@@ -1,4 +1,4 @@
-# VNA Analysis Notebook
+# VNA Model Fitting & Analysis Notebook
 
 ## Introduction
 
